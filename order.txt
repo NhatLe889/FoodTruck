@@ -1,0 +1,5 @@
+5 steak
+54 rice
+Total before tax: $931.0
+Tax: $37.24
+Final total: $968.24

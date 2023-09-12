@@ -1,0 +1,10 @@
+1. In the drawing Window, I make a soccer pitch and my own prediction for the
+two country that will be in the final for the world cup and what unique about this
+is that every shape and line in the drawing is symmetrical by calculating
+each measurement carefully.
+
+2. In the GUI functionality, not only the total money change for each digit
+of number enter into the quantity but also work in reverse, the number that
+get deleted from the quantity will have it amount minus from total accordingly.
+I add Image for the visual in each item in the menu.
+I add effect to the button whenever the mouse hover over them.
